@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <ConexaoBanco>
+    <Servidor>LAPTOP-JG5CNGN9</Servidor>
+    <Banco>dbVendas</Banco>
+    <AutWindows>true</AutWindows>
+    <Senha>Vazio</Senha>
+    <Usuario>Vazio</Usuario>
+  </ConexaoBanco>
+</NewDataSet>

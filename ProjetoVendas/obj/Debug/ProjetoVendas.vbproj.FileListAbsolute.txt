@@ -1,0 +1,228 @@
+E:\DROP_HERE\Técnico em Informática\3º Módulo\DS II\Aula01\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.exe.config
+E:\DROP_HERE\Técnico em Informática\3º Módulo\DS II\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.exe.config
+E:\DROP_HERE\Técnico em Informática\3º Módulo\DS II\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.exe
+E:\DROP_HERE\Técnico em Informática\3º Módulo\DS II\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.pdb
+E:\DROP_HERE\Técnico em Informática\3º Módulo\DS II\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.xml
+E:\DROP_HERE\Técnico em Informática\3º Módulo\DS II\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioVendedores.resources
+E:\DROP_HERE\Técnico em Informática\3º Módulo\DS II\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmVendedores.resources
+E:\DROP_HERE\Técnico em Informática\3º Módulo\DS II\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.Resources.resources
+E:\DROP_HERE\Técnico em Informática\3º Módulo\DS II\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.vbproj.GenerateResource.Cache
+E:\DROP_HERE\Técnico em Informática\3º Módulo\DS II\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.exe
+E:\DROP_HERE\Técnico em Informática\3º Módulo\DS II\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.xml
+E:\DROP_HERE\Técnico em Informática\3º Módulo\DS II\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.pdb
+E:\DROP_HERE\Técnico em Informática\3º Módulo\DS II\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmProdutos.resources
+E:\DROP_HERE\Técnico em Informática\3º Módulo\DS II\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioProdutos.resources
+E:\DROP_HERE\Técnico em Informática\3º Módulo\DS II\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmClientes.resources
+E:\DROP_HERE\Técnico em Informática\3º Módulo\DS II\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioClientes.resources
+E:\DROP_HERE\Técnico em Informática\3º Módulo\DS II\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.Menu.resources
+E:\DROP_HERE\Técnico em Informática\3º Módulo\DS II\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioTelefones.resources
+F:\DROP_HERE\Técnico em Informática\3º Módulo\DS II\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.exe.config
+F:\DROP_HERE\Técnico em Informática\3º Módulo\DS II\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.exe
+F:\DROP_HERE\Técnico em Informática\3º Módulo\DS II\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.xml
+F:\DROP_HERE\Técnico em Informática\3º Módulo\DS II\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.pdb
+E:\DROP_HERE\Técnico em Informática\3º Módulo\DS II\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioVendas.resources
+E:\DROP_HERE\Técnico em Informática\3º Módulo\DS II\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioVendasProdutos.resources
+E:\DROP_HERE\Técnico em Informática\3º Módulo\DS II\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmVendas.resources
+C:\Users\Maria\Downloads\Documents\Visual Studio 2015\Projects\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.exe.config
+C:\Users\Maria\Downloads\Documents\Visual Studio 2015\Projects\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.exe
+C:\Users\Maria\Downloads\Documents\Visual Studio 2015\Projects\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.xml
+C:\Users\Maria\Downloads\Documents\Visual Studio 2015\Projects\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.pdb
+C:\Users\Maria\Downloads\Documents\Visual Studio 2015\Projects\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.exe
+C:\Users\Maria\Downloads\Documents\Visual Studio 2015\Projects\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.pdb
+C:\Users\Maria\Downloads\Documents\Visual Studio 2015\Projects\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.xml
+C:\Users\Maria\Downloads\Documents\Visual Studio 2015\Projects\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.vbprojResolveAssemblyReference.cache
+C:\Users\Maria\Downloads\Documents\Visual Studio 2015\Projects\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmClientes.resources
+C:\Users\Maria\Downloads\Documents\Visual Studio 2015\Projects\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioClientes.resources
+C:\Users\Maria\Downloads\Documents\Visual Studio 2015\Projects\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioProdutos.resources
+C:\Users\Maria\Downloads\Documents\Visual Studio 2015\Projects\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioTelefones.resources
+C:\Users\Maria\Downloads\Documents\Visual Studio 2015\Projects\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioVendas.resources
+C:\Users\Maria\Downloads\Documents\Visual Studio 2015\Projects\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioVendasProdutos.resources
+C:\Users\Maria\Downloads\Documents\Visual Studio 2015\Projects\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioVendedores.resources
+C:\Users\Maria\Downloads\Documents\Visual Studio 2015\Projects\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmProdutos.resources
+C:\Users\Maria\Downloads\Documents\Visual Studio 2015\Projects\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmVendas.resources
+C:\Users\Maria\Downloads\Documents\Visual Studio 2015\Projects\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmVendedores.resources
+C:\Users\Maria\Downloads\Documents\Visual Studio 2015\Projects\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.Menu.resources
+C:\Users\Maria\Downloads\Documents\Visual Studio 2015\Projects\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.Resources.resources
+C:\Users\Maria\Downloads\Documents\Visual Studio 2015\Projects\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.vbproj.GenerateResource.Cache
+E:\DROP_HERE\Técnico em Informática\3º Módulo\DS II\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.vbprojResolveAssemblyReference.cache
+F:\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.exe.config
+F:\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.exe
+F:\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.xml
+F:\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.pdb
+E:\DROP_HERE\Técnico em Informática\3º Módulo\DS II\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioGrupo.resources
+E:\DROP_HERE\Técnico em Informática\3º Módulo\DS II\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmGrupo.resources
+E:\DROP_HERE\Técnico em Informática\3º Módulo\DS II\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmUsuarios.resources
+E:\DROP_HERE\Técnico em Informática\3º Módulo\DS II\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioUsuarios.resources
+C:\Users\Maria\Desktop\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.exe.config
+C:\Users\Maria\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.exe
+C:\Users\Maria\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.xml
+C:\Users\Maria\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.pdb
+C:\Users\Maria\Desktop\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.exe
+C:\Users\Maria\Desktop\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.pdb
+C:\Users\Maria\Desktop\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.xml
+C:\Users\Maria\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.vbprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmClientes.resources
+C:\Users\Maria\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioClientes.resources
+C:\Users\Maria\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioGrupo.resources
+C:\Users\Maria\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioProdutos.resources
+C:\Users\Maria\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioTelefones.resources
+C:\Users\Maria\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioUsuarios.resources
+C:\Users\Maria\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioVendas.resources
+C:\Users\Maria\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioVendasProdutos.resources
+C:\Users\Maria\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioVendedores.resources
+C:\Users\Maria\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmGrupo.resources
+C:\Users\Maria\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmProdutos.resources
+C:\Users\Maria\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmUsuarios.resources
+C:\Users\Maria\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmVendas.resources
+C:\Users\Maria\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmVendedores.resources
+C:\Users\Maria\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.Menu.resources
+C:\Users\Maria\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.Resources.resources
+C:\Users\Maria\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.vbproj.GenerateResource.Cache
+E:\DROP_HERE\Técnico em Informática\3º Módulo\DS II\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmLogin.resources
+C:\Users\Maria\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmLogin.resources
+C:\Users\userlocal\Desktop\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.exe.config
+C:\Users\userlocal\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.exe
+C:\Users\userlocal\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.xml
+C:\Users\userlocal\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.pdb
+C:\Users\userlocal\Desktop\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.exe
+C:\Users\userlocal\Desktop\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.pdb
+C:\Users\userlocal\Desktop\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.xml
+C:\Users\userlocal\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.vbprojResolveAssemblyReference.cache
+C:\Users\userlocal\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmClientes.resources
+C:\Users\userlocal\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioClientes.resources
+C:\Users\userlocal\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioGrupo.resources
+C:\Users\userlocal\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioProdutos.resources
+C:\Users\userlocal\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioTelefones.resources
+C:\Users\userlocal\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioUsuarios.resources
+C:\Users\userlocal\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioVendas.resources
+C:\Users\userlocal\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioVendasProdutos.resources
+C:\Users\userlocal\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioVendedores.resources
+C:\Users\userlocal\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmGrupo.resources
+C:\Users\userlocal\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmLogin.resources
+C:\Users\userlocal\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmProdutos.resources
+C:\Users\userlocal\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmUsuarios.resources
+C:\Users\userlocal\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmVendas.resources
+C:\Users\userlocal\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmVendedores.resources
+C:\Users\userlocal\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.Menu.resources
+C:\Users\userlocal\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.Resources.resources
+C:\Users\userlocal\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.vbproj.GenerateResource.Cache
+C:\Users\userlocal\Desktop\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmConfigConexao.resources
+D:\dapai\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.exe.config
+D:\dapai\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.exe
+D:\dapai\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.pdb
+D:\dapai\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.xml
+D:\dapai\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.vbprojAssemblyReference.cache
+D:\dapai\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmClientes.resources
+D:\dapai\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmConfigConexao.resources
+D:\dapai\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioClientes.resources
+D:\dapai\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioGrupo.resources
+D:\dapai\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioProdutos.resources
+D:\dapai\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioTelefones.resources
+D:\dapai\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioUsuarios.resources
+D:\dapai\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioVendas.resources
+D:\dapai\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioVendasProdutos.resources
+D:\dapai\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioVendedores.resources
+D:\dapai\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmGrupo.resources
+D:\dapai\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmLogin.resources
+D:\dapai\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmProdutos.resources
+D:\dapai\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmUsuarios.resources
+D:\dapai\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmVendas.resources
+D:\dapai\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmVendedores.resources
+D:\dapai\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.Menu.resources
+D:\dapai\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.Resources.resources
+D:\dapai\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.vbproj.GenerateResource.cache
+D:\dapai\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.vbproj.CoreCompileInputs.cache
+D:\dapai\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.exe
+D:\dapai\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.xml
+D:\dapai\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.pdb
+D:\dapaixaothales\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.exe.config
+D:\dapaixaothales\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.exe
+D:\dapaixaothales\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.pdb
+D:\dapaixaothales\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.xml
+D:\dapaixaothales\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.vbprojAssemblyReference.cache
+D:\dapaixaothales\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmClientes.resources
+D:\dapaixaothales\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmConfigConexao.resources
+D:\dapaixaothales\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioClientes.resources
+D:\dapaixaothales\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioGrupo.resources
+D:\dapaixaothales\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioProdutos.resources
+D:\dapaixaothales\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioTelefones.resources
+D:\dapaixaothales\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioUsuarios.resources
+D:\dapaixaothales\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioVendas.resources
+D:\dapaixaothales\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioVendasProdutos.resources
+D:\dapaixaothales\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioVendedores.resources
+D:\dapaixaothales\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmGrupo.resources
+D:\dapaixaothales\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmLogin.resources
+D:\dapaixaothales\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmProdutos.resources
+D:\dapaixaothales\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmUsuarios.resources
+D:\dapaixaothales\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmVendas.resources
+D:\dapaixaothales\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmVendedores.resources
+D:\dapaixaothales\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.Menu.resources
+D:\dapaixaothales\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.Resources.resources
+D:\dapaixaothales\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.vbproj.GenerateResource.cache
+D:\dapaixaothales\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.exe
+D:\dapaixaothales\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.xml
+D:\dapaixaothales\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.pdb
+D:\dapaixaothales\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmRecuperarSenha.resources
+D:\dapaixaothales\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\bin\Debug\Tulpep.NotificationWindow.dll
+D:\dapaixaothales\Documents\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.vbproj.CopyComplete
+D:\dapaixaothales\Documents\Backup\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.exe.config
+D:\dapaixaothales\Documents\Backup\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.exe
+D:\dapaixaothales\Documents\Backup\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.pdb
+D:\dapaixaothales\Documents\Backup\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.xml
+D:\dapaixaothales\Documents\Backup\ProjetoVendas\ProjetoVendas\bin\Debug\Tulpep.NotificationWindow.dll
+D:\dapaixaothales\Documents\Backup\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.vbprojAssemblyReference.cache
+D:\dapaixaothales\Documents\Backup\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmClientes.resources
+D:\dapaixaothales\Documents\Backup\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmConfigConexao.resources
+D:\dapaixaothales\Documents\Backup\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioClientes.resources
+D:\dapaixaothales\Documents\Backup\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioGrupo.resources
+D:\dapaixaothales\Documents\Backup\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioProdutos.resources
+D:\dapaixaothales\Documents\Backup\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioTelefones.resources
+D:\dapaixaothales\Documents\Backup\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioUsuarios.resources
+D:\dapaixaothales\Documents\Backup\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioVendas.resources
+D:\dapaixaothales\Documents\Backup\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioVendasProdutos.resources
+D:\dapaixaothales\Documents\Backup\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioVendedores.resources
+D:\dapaixaothales\Documents\Backup\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmGrupo.resources
+D:\dapaixaothales\Documents\Backup\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmLogin.resources
+D:\dapaixaothales\Documents\Backup\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmProdutos.resources
+D:\dapaixaothales\Documents\Backup\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmRecuperarSenha.resources
+D:\dapaixaothales\Documents\Backup\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmUsuarios.resources
+D:\dapaixaothales\Documents\Backup\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmVendas.resources
+D:\dapaixaothales\Documents\Backup\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmVendedores.resources
+D:\dapaixaothales\Documents\Backup\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.Menu.resources
+D:\dapaixaothales\Documents\Backup\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.Resources.resources
+D:\dapaixaothales\Documents\Backup\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.vbproj.GenerateResource.cache
+D:\dapaixaothales\Documents\Backup\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.vbproj.CopyComplete
+D:\dapaixaothales\Documents\Backup\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.exe
+D:\dapaixaothales\Documents\Backup\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.xml
+D:\dapaixaothales\Documents\Backup\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.pdb
+D:\dapaixaothales\Documents\Desenvolvimento\Visual Basic.net\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.exe.config
+D:\dapaixaothales\Documents\Desenvolvimento\Visual Basic.net\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.exe
+D:\dapaixaothales\Documents\Desenvolvimento\Visual Basic.net\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.pdb
+D:\dapaixaothales\Documents\Desenvolvimento\Visual Basic.net\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.xml
+D:\dapaixaothales\Documents\Desenvolvimento\Visual Basic.net\ProjetoVendas\ProjetoVendas\bin\Debug\Tulpep.NotificationWindow.dll
+D:\dapaixaothales\Documents\Desenvolvimento\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.vbprojAssemblyReference.cache
+D:\dapaixaothales\Documents\Desenvolvimento\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmClientes.resources
+D:\dapaixaothales\Documents\Desenvolvimento\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmConfigConexao.resources
+D:\dapaixaothales\Documents\Desenvolvimento\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioClientes.resources
+D:\dapaixaothales\Documents\Desenvolvimento\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioGrupo.resources
+D:\dapaixaothales\Documents\Desenvolvimento\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioProdutos.resources
+D:\dapaixaothales\Documents\Desenvolvimento\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioTelefones.resources
+D:\dapaixaothales\Documents\Desenvolvimento\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioUsuarios.resources
+D:\dapaixaothales\Documents\Desenvolvimento\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioVendas.resources
+D:\dapaixaothales\Documents\Desenvolvimento\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioVendasProdutos.resources
+D:\dapaixaothales\Documents\Desenvolvimento\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmFormularioVendedores.resources
+D:\dapaixaothales\Documents\Desenvolvimento\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmGrupo.resources
+D:\dapaixaothales\Documents\Desenvolvimento\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmLogin.resources
+D:\dapaixaothales\Documents\Desenvolvimento\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmProdutos.resources
+D:\dapaixaothales\Documents\Desenvolvimento\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmRecuperarSenha.resources
+D:\dapaixaothales\Documents\Desenvolvimento\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmUsuarios.resources
+D:\dapaixaothales\Documents\Desenvolvimento\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmVendas.resources
+D:\dapaixaothales\Documents\Desenvolvimento\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.frmVendedores.resources
+D:\dapaixaothales\Documents\Desenvolvimento\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.Menu.resources
+D:\dapaixaothales\Documents\Desenvolvimento\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.Resources.resources
+D:\dapaixaothales\Documents\Desenvolvimento\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.vbproj.GenerateResource.cache
+D:\dapaixaothales\Documents\Desenvolvimento\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.vbproj.CoreCompileInputs.cache
+D:\dapaixaothales\Documents\Desenvolvimento\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.vbproj.CopyComplete
+D:\dapaixaothales\Documents\Desenvolvimento\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.exe
+D:\dapaixaothales\Documents\Desenvolvimento\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.xml
+D:\dapaixaothales\Documents\Desenvolvimento\Visual Basic.net\ProjetoVendas\ProjetoVendas\obj\Debug\ProjetoVendas.pdb
