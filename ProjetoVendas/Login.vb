@@ -34,7 +34,7 @@ Public Class Login
             Dim messagem As AlternateView = AlternateView.CreateAlternateViewFromString("Utilize esse código: " & codigo, Nothing, Mime.MediaTypeNames.Text.Plain)
             objEmail.Subject = "Recuperação de senha"
             objEmail.AlternateViews.Add(messagem)
-            Dim credencial As New NetworkCredential("testedeemailemail@gmail.com", "teste12345")
+            Dim credencial As New NetworkCredential("testedeemailemail@gmail.com", "")
             objEnvio.Credentials = credencial
             objEnvio.EnableSsl = True
             objEnvio.Send(objEmail)
